@@ -1,2 +1,2 @@
-# ReactJs-Front-End-eLearning-website
-A front-end website I designed and coded using React-Js for a university project
+# Front-end-e-learning-website-Bidima-
+This is the frontend of for an e-learning website called "BIDIMA" . This website contains 3 users, namely : The Students, The Teachers, The Administrator. Also, first project in React Js.

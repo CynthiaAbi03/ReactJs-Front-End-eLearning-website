@@ -1,0 +1,7 @@
+export {default as Home} from './Home/Home'
+export {default as Connection} from './Connection/Connection'
+export {default as TeacherLogin} from './teachers/Login/Login'
+export {default as StudentLogin} from './students/Login/Login'
+export {default as StudentCourses} from  './students/Courses/Courses'
+export {default as TeacherCourses} from './teachers/Courses2/Courses2'
+export {default as AdminPage} from './admin/Admins'

@@ -1,0 +1,40 @@
+.main-nav-container{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), rgba(193, 117, 239, 0.54);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 50px 50px;
+}
+
+.app-name{
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.main-nav-container nav{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.signup-btn{
+    text-decoration: none;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: #000000;
+}
+
+.connection-btn{
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 10px 23px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), rgba(193, 117, 239, 0.54);
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}

@@ -1,0 +1,55 @@
+.main-body-container{
+    height: 100vh;
+    width: 100vw;
+}
+
+.connection-container{
+    display: flex;
+    flex-direction: row;
+    height: 80%;
+}
+
+.connection-container div{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+.connection-container div h1{
+    text-transform: uppercase;
+}
+
+.connection-container div:first-child h1 span{
+    color: rgba(13, 47, 167, 0.63);;
+}
+
+.teachers-login-btn{
+    background: rgba(13, 47, 167, 0.63);
+    border-radius: 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    padding: 10px 80px;
+    font-weight: bold;
+}
+
+.connection-container div:nth-child(2){
+    background: rgba(89, 38, 38, 0.59);
+}
+
+.connection-container div:nth-child(2) h1 span{
+    color: #E7E8E8;
+}
+
+.student-login-btn{
+    background: #E7E8E8;
+    border-radius: 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    padding: 10px 80px;
+    font-weight: bold;
+}
